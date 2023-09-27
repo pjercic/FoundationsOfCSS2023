@@ -1,5 +1,5 @@
 # Foundations of Computational Social Systems
-[David Garcia](http://dgarcia.eu), TU Graz, 2022
+[Fariba Karimi](https://networkinequality.com/), 2023
 
 Welcome to the online materials for Foundations of Computational Social Systems.
 
@@ -9,122 +9,127 @@ This course focuses on the fundamentals of a computational approach to study new
 
 ## Who am I?
 
-I am the Professor for Computational Behavioral and Social Sciences the Graz University of Technology, where I lead the [Computational Social Science Lab](http://www.csslab.at). I am also group leader at the Medical University of Vienna and at the Complexity Science Hub Vienna. My background is Computer Science but I worked my whole career with psychologists, sociologists and physicists to learn new ways to understand human behavior. I got my PhD from ETH Zurich in 2012 and a habilitation in 2018, starting to work as full professor TU Graz in 2020. To learn more about my research, check my [publications](https://dgarcia.eu/full-publication-list/). I teach this course in collaboration with Dr. Petar Jerčić, a postdoctoral researcher in the Computational Social Science Lab, and Moritz Erlacher, the student tutor for the course. Several people have contributed to the materials of this course over time, especially [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modeling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with [Dr. Petar Jerčić](http://www.petarjercic.com/), a postdoctoral researcher in the Computational Social Science Lab, and Benjamin Wolf Röhrich, the student tutor for the course. Several people have contributed to the materials of this course over time, especially [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Place and time
 
-The lectures of this course take place as a block course during the first weeks of the semester. The schedule is the following:
-
-- Day 1 - 6.10.2022 15:15-18:45 (HS i3)
-- Day 2 - 7.10.2022 13:15-16:45 (HS L)
-- Day 3 - 11.10.2022 15:15-18:45 (online)
-- Day 4 - 13.10.2022 15:15-18:45 (online)
-- Day 5 - 14.10.2022 13:15-16:45 (online)
-
-Exercise sessions take place over the semester. You can participate in one of two groups:
-- Group A, Tuesdays 13:00-14:00 (HS II)
-- Group B, Thursdays 14:15-15:15 (HS i3)
+The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room HS II (ATK1008H), Rechbauerstraße 12, Basement 1 in the Alte Technik campus of TU Graz. **The lecture is followed by one exercise session in the same room.** There is an extra online exercise support group on Mondays at 10:00 (sharp), where the same exercise as the previous week is discussed (check TeachCenter for the webex link). Lectures material is streamed and recorded, to some degree.
 
 ## Course Contents
 
-The lectures for the course are organized in five days with two sessions each, making a total of 10. The block course takes place on the first two weeks of the semester. Recordings of all sessions will be available on TUbe afterwards.
+The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the third week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
-### Day 1 - 6.10.2022 15:15-18:45 (HS i3)
+1. **Introduction to Computational Social Systems** (3.10.2021)  
+1.1. Course administration and information  
+1.2. [Computational Social Systems]() -- [[Slides]]()  
+1.3. [Social Data Science]() -- [[Slides]]()    
+1.4. [The parable of Google Flu Trends]() -- [[Slides]]()  
+- [Tutorial session: 01. Intro to Python 1]() -- [Tutorial resources]()  
+*(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
-1. **Introduction to Computational Social Systems**  
-1.1. Course administration and information -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/01_Introduction/011_CourseIntroduction/Slides/CourseIntroduction_Slides.html)  
-1.2. [Computational Social Systems](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/01_Introduction/012_ComputationalSocialSystems/ComputationalSocialSystems) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/01_Introduction/012_ComputationalSocialSystems/Slides/ComputationalSocialSystems_Slides.html)  
-1.3. [Social Data Science](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/01_Introduction/013_SocialDataScience/SocialDataScience) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/01_Introduction/013_SocialDataScience/Slides/Introduction_Slides.html)    
+2. **Search Behavior** ()  
+2.1. [Measuring temporal orientation with Google Trends]() -- [[Slides]]()     
+2.2. [Google Trends data]() -- [[Slides]]()    
+2.3. [Accessing the World Development Indicators from R]() -- [[Slides]]()     
+2.4. [Measuring correlation]() -- [[Slides]]()   
+- [Tutorial session: 02. Intro to Python 2]() -- [Tutorial resources]()
 
-2. **Search Behavior**  
-2.1. [Measuring temporal orientation with Google Trends](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/021_TemporalOrientation/TemporalOrientationGtrends.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/021_TemporalOrientation/Slides/TemporalOrientationGtrends_Slides.html)     
-2.2. [The parable of Google Flu Trends](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/022_GoogleFluTrends/GoogleFluTrends) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/022_GoogleFluTrends/Slides/GoogleFluTrends_Slides.html)  
-2.3. [Measuring correlation](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/023_Correlation/MeasuringCorrelation.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/02_Search/023_Correlation/Slides/MeasuringCorrelation_Slides.html)   
+3. **Social Trends** ()  
+3.1. [The Simmel Effect and Online Social Trends]() -- [[Slides]]()  
+3.2. [Old Big Data: Baby name trends]() -- [[Slides]]()  
+3.3. [Linear regression]() -- [[Slides]]()  
+- [Tutorial session: 03.  Intro to Python 3]() -- [Tutorial resources]()  
+- [Exercise start: Future orientation and economic development]() -- [Exercise resources]() 
 
-### Day 2 - 7.10.2022 13:15-16:45 (HS L)
+4. **Social Impact** ()  
+4.1. [Social Impact Theory]() -- [[Slides]]()   
+4.2. [Online Social Influence]() -- [[Slides]]()  
+4.3. [Bootstrapping]() -- [[Slides]]()
+- Solution session: Future orientation and economic development
+- [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Exercise resources]()   
+() and [its code]())
 
-3. **Social Trends**  
-3.1. [The Simmel Effect and Online Social Trends](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/031_SimmelEffect/SimmelEffect.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/031_SimmelEffect/Slides/SimmelEffect_Slides.html)  
-3.2. [Old Big Data: Baby name trends](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/032_BabyNameTrends/BabyNameTrends.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/032_BabyNameTrends/Slides/BabyNameTrends_Slides.html)  
-3.3. [Linear regression](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/033_LinearRegression/LinearRegression.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/03_SocialTrends/033_LinearRegression/Slides/LinearRegression_Slides.html)
-
-4. **Social Impact**  
-4.1. [Social Impact Theory](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/041_SocialImpactTheory/SIT.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/041_SocialImpactTheory/Slides/SIT_Slides.html)   
-4.2. [Online Social Influence](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/042_OnlineInfluence/OnlineInfluence.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/042_OnlineInfluence/Slides/OnlineInfluence_Slides.html)  
-4.3. [Bootstrapping](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/043_Bootstrapping/Bootstrapping.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/04_SocialImpact/043_Bootstrapping/Slides/Bootstrapping_Slides.html)
-
-### Day 3 - 11.10.2022 15:15-18:45 (online)
-
-5. **Social Media Text Analysis**  
-5.1. [Measuring emotions](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/051_MeasuringEmotions/Emotions.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/051_MeasuringEmotions/Slides/Emotions_Slides.html)  
-5.2. [Unsupervised sentiment analysis](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/052_UnsupervisedSentimentAnalysis/UnsupervisedSentimentAnalysis.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/052_UnsupervisedSentimentAnalysis/Slides/UnsupervisedSentimentAnalysis_Slides.html)    
-5.3. [Emotions in pagers after 9/11](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/053_PagerEmotions/PagerEmotions.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/05_TextAnalysis/053_PagerEmotions/Slides/PagerEmotions_Slides.html)    
-
-
-6. **Supervised Sentiment Analysis**  
-6.1. [The semantic differential](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/06_SentimentAnalysis/061_SemanticDifferential/SemanticDifferential.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/06_SentimentAnalysis/061_SemanticDifferential/Slides/SemanticDifferential_Slides.html)  
-6.2. [Supervised sentiment analysis](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/06_SentimentAnalysis/062_SupervisedSentimentAnalysis/SupervisedSentimentAnalysis.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/06_SentimentAnalysis/062_SupervisedSentimentAnalysis/Slides/SupervisedSentimentAnalysis_Slides.html)  
-6.3. Sentiment analysis applications -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/06_SentimentAnalysis/063_SentimentAnalysisApplications/Slides/SentimentApplications_Slides.html)  
-
-### Day 4 - 13.10.2022 15:15-18:45 (online)
-
-7. **Social network analysis**   
-7.1. [Introduction to social networks](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/071_SNAIntro/SNAIntro.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/071_SNAIntro/Slides/SNAIntro_Slides.html)  
-7.2. [Centrality and importance](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/072_Centrality/Centrality.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/072_Centrality/Slides/Centrality_Slides.html)  
-7.3. [The Friendship paradox](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/073_FriendshipParadox/FriendshipParadox.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/07_SNA/073_FriendshipParadox/Slides/FriendshipParadox_Slides.html)    
-
-8. **Social network structures**   
-8.1. [Structural holes](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/081_StructuralHoles/StructuralHoles.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/081_StructuralHoles/Slides/StructuralHoles_Slides.html)    
-8.2. [Assortativity](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/082_Assortativity/Assortativity.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/082_Assortativity/Slides/Assortativity_Slides.html)   
-8.3. [Permutation tests](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/083_PermutationTests/PermutationTests.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/08_SocialNetworkStructures/083_PermutationTests/Slides/PermutationTests_Slides.html)    
-
-### Day 5 - 14.10.2022 13:15-16:45 (online)
-
-9. **Social network phenomena**  
-9.1. [The death of online social networks](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/091_SocialNetworkDeath/SocialNetworkDeath.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/091_SocialNetworkDeath/Slides/SocialNetworkDeath_Slides.html)  
-9.2. [Social resilience and coreness centrality](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/092_SocialResilience/SocialResilience.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/092_SocialResilience/Slides/SocialResilience_Slides.html)  
-9.3. [Polarization and digital technologies](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/093_Polarization/Polarization.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/093_Polarization/Slides/Polarization_Slides.html)  
-9.4. [Misinformation and information disorder](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/094_Misinformation/Misinformation.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/09_SNAPhenomena/094_Misinformation/Slides/Misinformation_Slides.html)  
+5. **Social Media Text Analysis** ()  
+5.1. [Measuring emotions]() -- [[Slides]]()  
+5.2. [Unsupervised sentiment analysis]() -- [[Slides]]()    
+5.3. [Emotions in pagers after 9/11]() -- [[Slides]]()    
+- Solution session: Correlation of Future Orientation Index and Gross Domestic Product exercise
+- [Exercise start: Division of impact on Twitter]() -- [Exercise resources]() 
 
 
-10. **Social issues**  
-10.1. [Representation issues - The case of Twitter](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/101_TwitterOpinions/TwitterOpinions.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/101_TwitterOpinions/Slides/TwitterOpinions_Slides.html)   
-10.2. [The ethics of social media research](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/102_Ethics/Ethics.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/102_Ethics/Slides/Ethics_Slides.html)  
-10.3. [Privacy in the digital society](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/103_Privacy/Privacy.html) -- [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/10_SocietalIssues/103_Privacy/Slides/Privacy_Slides.html)    
+6. **Supervised Sentiment Analysis** ()  
+6.1. [The semantic differential]() -- [[Slides]]()  
+6.2. [Supervised sentiment analysis]() -- [[Slides]]()  
+6.3. [Sentiment analysis applications]() -- [[Slides]]()  
+- [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Tutorial resources]()
 
-[Project guidance](https://github.com/dgarcia-eu/FoundationsOfCSS-TUGraz/blob/master/Projects_Guidance/ProjectsGuide.md) - [[Slides]](https://dgarcia-eu.github.io/FoundationsOfCSS-TUGraz/Projects_Guidance/ProjectGuidanceSlides.html)  
+7. **Social network analysis** ()  
+7.1. [Introduction to social networks]() -- [[Slides]]()  
+7.2. [The Friendship paradox]() -- [[Slides]]()    
+7.3. [Sampling bias on Twitter]() -- [[Slides]]()    
+- Solution session:  Division of impact on Twitter
+- [Exercise start: Social Impact Theory with Twitter Data]() -- [[Exercise resources]]()  
 
-Exercise sessions take place from the third week. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
+8. **Centrality and social resilience** ()  
+8.1. [Centrality and importance]() -- [[Slides]]()   
+8.2. [The death of online social networks]() -- [[Slides]]()  
+8.3. [Social resilience and coreness centrality]() -- [[Slides]]()  
+- [Exercise start: Social Impact Theory with Twitter Data]() -- [[Tutorial Resources]]()
 
-## Exercise sessions calendar
+9. **Online social network structures** ()  
+9.1. [Structural holes and communities]() -- [[Slides]]()    
+9.2. [Assortativity]() -- [[Slides]]()   
+9.3. [Permutation tests]() -- [[Slides]]()    
+- Solution session: Evaluating sentiment analysis methods
+- [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
 
-Each group has at least two sessions per exercise. Due to holidays, one group might miss one session for one exercise, but it is always possible for every student to attend any group or even both in the same week. Online support is available in any case over Discord. More Information about the Python Intro [here](Python_Tutorial/README.md).
+10. **Societal issues**  ()  
+10.1 [Privacy in the digital society]() -- [[Slides]]()    
+10.2 [Misinformation and information disorder]() -- [[Slides]]()  
+10.3 [Polarization and digital technologies]() -- [[Slides]]()
+10.4. [Representation issues - The case of Twitter]() -- [[Slides]]()   
+- Solution session: Swiss politician data on Twitter  
+- [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
 
-01. Intro to Python 1 (18.10 and 20.10)
-02. Intro to Python 2 (25.10 and 27.10)
-03. Intro to Python 3 (03.11)
-04. Exercise 01 Session 1 (8.11 and 10.11)
-05. Exercise 01 Session 2 (15.11 and 17.11) - Deadline to submit solutions of Exercise 01: 21.11
-06. Exercise 02 Session 1 and discussion of solution of Exercise 01 (22.11 and 24.11)
-07. Exercise 02 Session 2 (29.11 and 01.12) - Deadline to submit solutions of Exercise 02: 05.12
-08. Exercise 03 Session 1 and discussion of solution of Exercise 02 (06.12)
-09. Exercise 03 Session 2 (13.12 and 15.12) - Deadline to submit solutions of Exercise 03: 09.01
-10. Exercise 04 Session 1 and discussion of solution of Exercise 03 (10.01 and 12.01)
-11. Exercise 04 Session 2 (17.01 and 19.01) - Deadline to submit solutions of Exercise 04: 23.01
-12. Project guidance with David and discussion of solution of Exercise 04 (27.01)
+11. **Ethical and scientific issues** ()  
+11.1 [The ethics of social media research]() -- [[Slides]]()  
+11.3 [Representation in digital traces]() -- [[Slides]]()  
+11.3 [Measurement issues]() -- [[Slides]]()
+- Project feedback
+- [Exercise start: Social Network Analysis of Swiss Politicians on Twitter Data]() -- [[Exercise Resources]]()  
 
-## Project guidance sessions, presentation dates, and deadlines
+12. **Project presentations** (27.1.2022)  
 
-- 16.12, 14:15 - Extra project guidance with David (online)
-- 19.12, end of day - **deadline for project registrations** (see the [projects guide](https://github.com/dgarcia-eu/FoundationsOfCSS-TUGraz/blob/master/Projects_Guidance/ProjectsGuide.md) for more information)
-- 27.01, 14:15 - Project guidance with David (online)
-- 03.02, 14:00 - Project presentations date 1 (online)
-- 17.02, end of day - **deadline for submission of final report** for projects presented on date 1.
-- 03.03, 14:15 - Project presentations date 2 (online)
-- 17.03, end of day - **deadline for submission of final report** for projects presented on date 2.
+In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
+
+## Where to access materials
+
+- Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/dgarcia-eu/FoundationsOfCSS).
+- Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/course/view.php?id=4072) to get additional information, watch videos, and to participate in the forums and quizzes.
+
+## Project preparation and presentation dates
+
+- 12.12 - Extra project guidance with Fariba (online) - Move to Friday 12.12
+- 26.01 - Project guidance with Fariba (online) - Move to Friday 27.01
+- 02.02 - Project presentations date 1 (online) - Move to Friday 03.02
+- 02.03 - Project presentations date 2 (online) - Move to Friday 03.03
 
 ## Course grading
 
-The assessment for the course is based on the final group research project (max. 4 students). The project grade is a combination of the presentation (50%) and the written report on the project (50%). Extra points (max 20%)  can be achieved by delivering four optional exercise solutions, each one worth 5%. Optional exercises are graded with pass/fail and feedback about solutions will take place during tutorial sessions.
+The assessment for the course is based on these components:
 
-To learn more about how to do the project, check the [**PROJECTS GUIDE.**](https://github.com/dgarcia-eu/FoundationsOfCSS-TUGraz/blob/master/Projects_Guidance/ProjectsGuide.md)
+- Exercises done in groups of **one or two students**. It is mandatory to submit ANY two excercises for **25% of final grade** each submitted excercise, which totals in **50% of final grade**.
+  - Exercise 1: Deadline: 10.10.2023
+  - Exercise 2: Deadline: 10.10.2023
+  - Exercise 3: Deadline: 10.10.2023
+  - Exercise 4: Deadline: 10.10.2023
+  
+- Final group project in groups of **up to four students**. Projects are linked to two evaluations:
+  - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
+  - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
+
+You can find more information about the project presentations and reports, including deadlines, in the [projects guide.](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsGuide.html) You can also find some guidance and recommendations in the [slides of the project support session.](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsIntroSlides/Slides.html)
+
+Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
+
+Extra points (max 20%) can be achieved by delivering other exercise solutions, each one worth 10%. Optional exercises are graded with pass/fail and feedback about solutions will take place during tutorial sessions. In case of multiple submitted excercises, two of the best ones count towards the final grade, while others will count towards optional exercises.
