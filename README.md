@@ -19,90 +19,63 @@ The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room HS II 
 
 The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the third week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
-0. **Foundations of Computational Social Systems** (3.10.2021)  
+0. **Foundations of Computational Social Systems** (3.10.2023)  
 0.1. Course administration and information  
 0.2. Meet your lecturers  
 *There will be no actual lecture on this date, but a session to get information about the course, meet the lecturers and ask questions.*
 
-1. **Introduction to Computational Social Systems** (9.10.2021)
-1.2. [Computational Social Systems]() -- [[Slides]]()  
-1.3. [Social Data Science]() -- [[Slides]]()    
-1.4. [The parable of Google Flu Trends]() -- [[Slides]]()  
+1. **Introduction to Computational Social Systems** (10.10.2023)  
 - [Tutorial session: 01. Intro to Python 1]() -- [Tutorial resources]()  
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
-2. **Search Behavior** ()  
-2.1. [Measuring temporal orientation with Google Trends]() -- [[Slides]]()     
-2.2. [Google Trends data]() -- [[Slides]]()    
-2.3. [Accessing the World Development Indicators from R]() -- [[Slides]]()     
-2.4. [Measuring correlation]() -- [[Slides]]()   
+2. **Social Impact** (17.10.2023)  
 - [Tutorial session: 02. Intro to Python 2]() -- [Tutorial resources]()
 
-3. **Social Trends** ()  
-3.1. [The Simmel Effect and Online Social Trends]() -- [[Slides]]()  
-3.2. [Old Big Data: Baby name trends]() -- [[Slides]]()  
-3.3. [Linear regression]() -- [[Slides]]()  
+3. **Collective intelligence and collective action (guest: Prof. Mirta
+Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)  
 - [Tutorial session: 03.  Intro to Python 3]() -- [Tutorial resources]()  
 - [Exercise start: Future orientation and economic development]() -- [Exercise resources]() 
 
-4. **Social Impact** ()  
-4.1. [Social Impact Theory]() -- [[Slides]]()   
-4.2. [Online Social Influence]() -- [[Slides]]()  
-4.3. [Bootstrapping]() -- [[Slides]]()
+4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette
+Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
 - Solution session: Future orientation and economic development
 - [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Exercise resources]()   
 () and [its code]())
 
-5. **Social Media Text Analysis** ()  
-5.1. [Measuring emotions]() -- [[Slides]]()  
-5.2. [Unsupervised sentiment analysis]() -- [[Slides]]()    
-5.3. [Emotions in pagers after 9/11]() -- [[Slides]]()    
+5. **Social Media Sentiment Analysis** (7.11.2023)    
 - Solution session: Correlation of Future Orientation Index and Gross Domestic Product exercise
 - [Exercise start: Division of impact on Twitter]() -- [Exercise resources]() 
 
 
-6. **Supervised Sentiment Analysis** ()  
-6.1. [The semantic differential]() -- [[Slides]]()  
-6.2. [Supervised sentiment analysis]() -- [[Slides]]()  
-6.3. [Sentiment analysis applications]() -- [[Slides]]()  
+6. **Social networks 1** (14.11.2023)   
 - [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Tutorial resources]()
 
-7. **Social network analysis** ()  
-7.1. [Introduction to social networks]() -- [[Slides]]()  
-7.2. [The Friendship paradox]() -- [[Slides]]()    
-7.3. [Sampling bias on Twitter]() -- [[Slides]]()    
+7. **Measuring Polarization (guest lecture: Dr. Samuel
+Martin-Gutierrez, Complexity Science Hub Vienna)** (21.11.2023)   
 - Solution session:  Division of impact on Twitter
 - [Exercise start: Social Impact Theory with Twitter Data]() -- [[Exercise resources]]()  
 
-8. **Centrality and social resilience** ()  
-8.1. [Centrality and importance]() -- [[Slides]]()   
-8.2. [The death of online social networks]() -- [[Slides]]()  
-8.3. [Social resilience and coreness centrality]() -- [[Slides]]()  
+8. **Social networks and processes** (28.11.2023)   
 - [Exercise start: Social Impact Theory with Twitter Data]() -- [[Tutorial Resources]]()
 
-9. **Online social network structures** ()  
-9.1. [Structural holes and communities]() -- [[Slides]]()    
-9.2. [Assortativity]() -- [[Slides]]()   
-9.3. [Permutation tests]() -- [[Slides]]()    
+9. **From animals to human: synchrony and cultural evolution** (5.12.2023)   
 - Solution session: Evaluating sentiment analysis methods
 - [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
 
-10. **Societal issues**  ()  
-10.1 [Privacy in the digital society]() -- [[Slides]]()    
-10.2 [Misinformation and information disorder]() -- [[Slides]]()  
-10.3 [Polarization and digital technologies]() -- [[Slides]]()
-10.4. [Representation issues - The case of Twitter]() -- [[Slides]]()   
+10. **Computational inequality**  (12.12.2023)    
 - Solution session: Swiss politician data on Twitter  
 - [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
 
-11. **Ethical and scientific issues** ()  
-11.1 [The ethics of social media research]() -- [[Slides]]()  
-11.3 [Representation in digital traces]() -- [[Slides]]()  
-11.3 [Measurement issues]() -- [[Slides]]()
+11. **Social challenges and data ethics (guest lecture)** (19.12.2023)  
 - Project feedback
 - [Exercise start: Social Network Analysis of Swiss Politicians on Twitter Data]() -- [[Exercise Resources]]()  
 
-12. **Project presentations** (27.1.2022)  
+12. **Algorithms, inequalities, and fairness (guest lecture: Lisette
+Espin-Noboa)** (9.1.2024)  
+
+13. **Science of Science (guest lecture: TBC)** (16.1.2024)  
+
+14. **Project presentations** (23.1.2024)  
 
 In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
