@@ -19,8 +19,12 @@ The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room HS II 
 
 The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the third week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
-1. **Introduction to Computational Social Systems** (3.10.2021)  
-1.1. Course administration and information  
+0. **Foundations of Computational Social Systems** (3.10.2021)  
+0.1. Course administration and information  
+0.2. Meet your lecturers  
+*There will be no actual lecture on this date, but a session to get information about the course, meet the lecturers and ask questions.*
+
+1. **Introduction to Computational Social Systems** (9.10.2021)
 1.2. [Computational Social Systems]() -- [[Slides]]()  
 1.3. [Social Data Science]() -- [[Slides]]()    
 1.4. [The parable of Google Flu Trends]() -- [[Slides]]()  
@@ -104,7 +108,7 @@ In exercises, you collect your own data and try to answer questions about human 
 
 ## Where to access materials
 
-- Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/dgarcia-eu/FoundationsOfCSS).
+- Handouts, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/FoundationsOfCSS2023).
 - Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/course/view.php?id=4072) to get additional information, watch videos, and to participate in the forums and quizzes.
 
 ## Project preparation and presentation dates
@@ -128,7 +132,7 @@ The assessment for the course is based on these components:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
   - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
 
-You can find more information about the project presentations and reports, including deadlines, in the [projects guide.](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsGuide.html) You can also find some guidance and recommendations in the [slides of the project support session.](https://pjercic.github.io/ComputationalModellingSocialSystems2023/ProjectsIntroSlides/Slides.html)
+You can find more information about the project presentations and reports, including deadlines, in the [projects guide.]() You can also find some guidance and recommendations in the [slides of the project support session.]()
 
 Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
 
