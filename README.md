@@ -110,3 +110,7 @@ You can find more information about the project presentations and reports, inclu
 Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
 
 Extra points (max 20%) can be achieved by delivering other exercise solutions, each one worth 10%. Optional exercises are graded with pass/fail and feedback about solutions will take place during tutorial sessions. In case of multiple submitted excercises, two of the best ones count towards the final grade, while others will count towards optional exercises.
+
+# Using AI disclaimer
+
+Note that we treat the involvement of ChatGPT and similar tools the same way as the involvement of another natural person. That is, for involvement qualifies as plagiarism or an impermissible level of assistance, the consequences will be the same in both cases to the strictest extent possible. In case of any doubt, please ask the lecturer(s) beforehand.
