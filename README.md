@@ -19,65 +19,62 @@ The main lecture takes place on Tuesdays at 11:00 (sharp) in lecture room HS II 
 
 The course is organized in 13 sessions. Each session contains a practical part with exercises for you to apply what you learned. From the third week, the practice session will consist of a discussion of solutions to the exercise corresponding to the previous session. In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
 
+In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
+
 0. **Foundations of Computational Social Systems** (3.10.2023)  
 0.1. Course administration and information  
 0.2. Meet your lecturers  
 *There will be no actual lecture on this date, but a session to get information about the course, meet the lecturers and ask questions.*
 
 1. **Introduction to Computational Social Systems** (10.10.2023)  
-- [Tutorial session: 01. Intro to Python 1]() -- [Tutorial resources]()  
+- [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
 2. **Social Impact** (17.10.2023)  
-- [Tutorial session: 02. Intro to Python 2]() -- [Tutorial resources]()
+- [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
 3. **Collective intelligence and collective action (guest: Prof. Mirta
 Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)  
-- [Tutorial session: 03.  Intro to Python 3]() -- [Tutorial resources]()  
-- [Exercise start: Future orientation and economic development]() -- [Exercise resources]() 
+- [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
 4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette
 Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
-- Solution session: Future orientation and economic development
-- [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Exercise resources]()   
+- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1)]() -- [Exercise resources]()   
 () and [its code]())
 
 5. **Social Media Sentiment Analysis** (7.11.2023)    
-- Solution session: Correlation of Future Orientation Index and Gross Domestic Product exercise
-- [Exercise start: Division of impact on Twitter]() -- [Exercise resources]() 
-
+- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2)]() -- [Exercise resources]()   
+() and [its code]())
 
 6. **Social networks 1** (14.11.2023)   
-- [Exercise start: Correlation of Future Orientation Index and Gross Domestic Product]() -- [Tutorial resources]()
+- Solution:  Correlation of Future Orientation Index and Gross Domestic Product
+- [Exercise 2: Social Impact Theory with Twitter Data (session 1)]() -- [[Exercise resources]]()  
 
 7. **Measuring Polarization (guest lecture: Dr. Samuel
 Martin-Gutierrez, Complexity Science Hub Vienna)** (21.11.2023)   
-- Solution session:  Division of impact on Twitter
-- [Exercise start: Social Impact Theory with Twitter Data]() -- [[Exercise resources]]()  
+- [Exercise 2: Social Impact Theory with Twitter Data (session 2)]() -- [[Exercise resources]]()  
 
 8. **Social networks and processes** (28.11.2023)   
-- [Exercise start: Social Impact Theory with Twitter Data]() -- [[Tutorial Resources]]()
+- Solution:  Social Impact Theory with Twitter Data
+- [Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1)]() -- [[Exercise Resources]]()  
 
 9. **From animals to human: synchrony and cultural evolution** (5.12.2023)   
-- Solution session: Evaluating sentiment analysis methods
-- [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
+- [Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2)]() -- [[Exercise Resources]]()  
 
 10. **Computational inequality**  (12.12.2023)    
-- Solution session: Swiss politician data on Twitter  
-- [Exercise start: Sentiment Evaluation of Twitter and YouTube Data]() -- [[Exercise Resources]]()  
+- Solution: Sentiment Evaluation of Twitter and YouTube Data  
+- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1)]() -- [[Exercise Resources]]()  
 
 11. **Social challenges and data ethics (guest lecture)** (19.12.2023)  
 - Project feedback
-- [Exercise start: Social Network Analysis of Swiss Politicians on Twitter Data]() -- [[Exercise Resources]]()  
+- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2)]() -- [[Exercise Resources]]()  
 
-12. **Algorithms, inequalities, and fairness (guest lecture: Lisette
-Espin-Noboa)** (9.1.2024)  
+12. **Project presentations** (23.1.2024)  
 
-13. **Science of Science (guest lecture: TBC)** (16.1.2024)  
+TBC. **Algorithms, inequalities, and fairness (guest lecture: Lisette
+Espin-Noboa)** 
 
-14. **Project presentations** (23.1.2024)  
-
-In exercises, you collect your own data and try to answer questions about human behavior and online phenomena. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints.
+TBC. **Science of Science (guest lecture: TBC)**
 
 ## Where to access materials
 
@@ -96,10 +93,10 @@ In exercises, you collect your own data and try to answer questions about human 
 The assessment for the course is based on these components:
 
 - Exercises done in groups of **one or two students**. It is mandatory to submit ANY two excercises for **25% of final grade** each submitted excercise, which totals in **50% of final grade**.
-  - Exercise 1: Deadline: 10.10.2023
-  - Exercise 2: Deadline: 10.10.2023
-  - Exercise 3: Deadline: 10.10.2023
-  - Exercise 4: Deadline: 10.10.2023
+  - Exercise 1: Deadline: 21.11.2023
+  - Exercise 2: Deadline: 05.12.2023
+  - Exercise 3: Deadline: 19.12.2023
+  - Exercise 4: Deadline: 05.01.2024
   
 - Final group project in groups of **up to four students**. Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
