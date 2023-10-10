@@ -29,15 +29,15 @@ In exercises, you collect your own data and try to answer questions about human 
 ### Block 1: Lectures
 
 1. **Introduction to Computational Social Systems** (10.10.2023)  
-  - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
-  *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
+- [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
+*(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
 2. **Social Impact** (17.10.2023)  
-  - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
+- [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
 3. **Collective intelligence and collective action (guest: Prof. Mirta
 Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)  
-  - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
+- [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
 4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette
 Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
