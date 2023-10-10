@@ -26,16 +26,18 @@ In exercises, you collect your own data and try to answer questions about human 
 0.2. Meet your lecturers  
 *There will be no actual lecture on this date, but a session to get information about the course, meet the lecturers and ask questions.*
 
+### Block 1: Lectures
+
 1. **Introduction to Computational Social Systems** (10.10.2023)  
-- [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
-*(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
+  - [Tutorial session: 01. Intro to Python 1](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial01.ipynb) -- [Exercise 1 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_1.ipynb)  
+  *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.) The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.*
 
 2. **Social Impact** (17.10.2023)  
-- [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
+  - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
 3. **Collective intelligence and collective action (guest: Prof. Mirta
 Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)  
-- [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
+  - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
 4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette
 Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
@@ -69,7 +71,19 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** (21.11.2023)
 - Project feedback
 - [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2)]() -- [[Exercise Resources]]()  
 
-12. **Project presentations** (23.1.2024)  
+### Block 2: Project
+
+12. [**Lecture Q&A session**]() [[Slides]]() (09.01.2024)  
+*Project guidance*  
+
+12. [**Lecture Q&A session**]() [[Slides]]() (16.01.2024)  
+*Project guidance*  
+
+14. **Project presentations** [[Agenda]]() (23.01.2024)
+<!-- - Make sure your whole group is available between 16:00 and 19:00 -->
+
+15. **Project presentations** [[Agenda]]() (30.01.2024)
+<!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
 TBC. **Algorithms, inequalities, and fairness (guest lecture: Lisette
 Espin-Noboa)** 
@@ -83,10 +97,10 @@ TBC. **Science of Science (guest lecture: TBC)**
 
 ## Project preparation and presentation dates
 
-- 12.12 - Extra project guidance with Fariba (online) - Move to Friday 12.12
-- 26.01 - Project guidance with Fariba (online) - Move to Friday 27.01
-- 02.02 - Project presentations date 1 (online) - Move to Friday 03.02
-- 02.03 - Project presentations date 2 (online) - Move to Friday 03.03
+- 09.01 - Project guidance with Fariba
+- 16.01 - Project guidance with Fariba
+- 23.01 - Project presentations date 1
+- 30.01 - Project presentations date 2
 
 ## Course grading
 
