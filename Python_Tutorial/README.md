@@ -8,9 +8,9 @@ Direct download of the tutorial material: [[Download material]](https://minhaska
 
 The three parts are split up as seen in Table below:
 
-- 10.10 -- [Print, Comments, String, Numbers, Datastructures, Booleans and Conditions](./tutorials/tutorial01.ipynb) -- [Exercises 1](./exercises/tutorial_exercise_1.ipynb) |
-- 17.10 -- [Loops, Functions and File I/O](./tutorials/tutorial02.ipynb) -- [Exercises 2](./exercises/tutorial_exercise_2.ipynb) |
-- 24.10 -- [Pandas, matplotlib, networkx and twarc](./tutorials/tutorial03.ipynb) -- [Exercises 3](./exercises/tutorial_exercise_3.ipynb) |
+- 10.10 -- [Print, Comments, String, Numbers, Datastructures, Booleans and Conditions](./tutorials/tutorial01.ipynb) -- [Exercises 1](./exercises/tutorial_exercise_1.ipynb)  
+- 17.10 -- [Loops, Functions and File I/O](./tutorials/tutorial02.ipynb) -- [Exercises 2](./exercises/tutorial_exercise_2.ipynb)  
+- 24.10 -- [Pandas, matplotlib, networkx and twarc](./tutorials/tutorial03.ipynb) -- [Exercises 3](./exercises/tutorial_exercise_3.ipynb)  
 
 Since we only have one hour per week, the idea is that you work through the tutorials and try to solve the exercises and then in class we try to solve them together. There will be a feedbackr link on top of each tutorial exercise where you can tell me if you need more help for the specific exercises, so we can focus on these exercises in class. 
 The tutorials should also serve as a reference for the bonus exercises later in the semester.
