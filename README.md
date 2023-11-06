@@ -41,12 +41,11 @@ Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)
 
 4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette
 Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
-- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1)]() -- [Exercise resources]()   
-() and [its code]())
+- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1)](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
 
-5. **Social Media Sentiment Analysis** (7.11.2023)    
-- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2)]() -- [Exercise resources]()   
-() and [its code]())
+5. **Social Media Sentiment Analysis (guest lecture: Dr. Max
+Pellert, Complexity Science Hub Vienna)** (7.11.2023)    
+- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2)](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
 
 6. **Social networks 1** (14.11.2023)   
 - Solution:  Correlation of Future Orientation Index and Gross Domestic Product
