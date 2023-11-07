@@ -35,10 +35,10 @@ In exercises, you collect your own data and try to answer questions about human 
 2. **Social Impact Theory** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/02_SocialImpact/week-2.pdf) (17.10.2023)  
 - [Tutorial session: 02. Intro to Python 2](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial02.ipynb) -- [Exercise 2 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_2.ipynb)
 
-3. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** (24.10.2023)  
+3. **Collective intelligence and collective action (guest: Prof. Mirta Galesic, Santa Fe Institue and Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/03_CollectiveIntelligenceAction/week-3.pdf) (24.10.2023)  
 - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
-4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/03_CollectiveIntelligenceAction/week-3.pdf) (31.10.2023)  
+4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
 - [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1)](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
 
 5. **Social Media Sentiment Analysis (guest lecture: Dr. Max Pellert, Complexity Science Hub Vienna)** (7.11.2023)    
