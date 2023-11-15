@@ -39,17 +39,17 @@ In exercises, you collect your own data and try to answer questions about human 
 - [Tutorial session: 03.  Intro to Python 3](https://pjercic.github.io/FoundationsOfCSS2023/Python_Tutorial/) -- [Tutorial 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/tutorials/tutorial03.ipynb) -- [Exercise 3 resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Python_Tutorial/exercises/tutorial_exercise_3.ipynb)  
 
 4. **Social  Behaviour and Trends (guest lecture: Dr. Lisette Espin-Noboa, Complexity Science Hub Vienna)** (31.10.2023)  
-- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1)](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
+- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 1) [Video](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
 
 5. **Social Media Sentiment Analysis (guest lecture: Dr. Max Pellert, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/05_SocialMediaSentimentAnalysis/week-5.pdf) (7.11.2023)    
-- [Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2)](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
+- Exercise 1: Correlation of Future Orientation Index and Gross Domestic Product (session 2) [Video](https://tube.tugraz.at/paella/ui/watch.html?id=7d8348b3-5312-4238-a43e-ab313c66465d) -- [Exercise resources](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise01/) 
 
 6. **Social networks 1** [[Slides]]() (14.11.2023)   
-- [Exercise 2: Social Impact Theory with Twitter Data (session 1)](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
+- Exercise 2: Social Impact Theory with Twitter Data (session 1) [Video](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
 
 7. **Measuring Polarization (guest lecture: Dr. Samuel
 Martin-Gutierrez, Complexity Science Hub Vienna)** (21.11.2023)   
-- [Exercise 2: Social Impact Theory with Twitter Data (session 2)](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
+- Exercise 2: Social Impact Theory with Twitter Data (session 2) [Video](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
 
 8. **Social networks and processes** (28.11.2023)   
 - Solution:  Social Impact Theory with Twitter Data
