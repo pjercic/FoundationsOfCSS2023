@@ -53,10 +53,10 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 
 8. **Social networks and processes** (28.11.2023)   
 - Solution:  Social Impact Theory with Twitter Data
-- [Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1)]() -- [[Exercise Resources]]()  
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise03/)
 
 9. **From animals to human: synchrony and cultural evolution** (5.12.2023)   
-- [Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2)]() -- [[Exercise Resources]]()  
+- Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise03/)
 
 10. **Computational inequality**  (12.12.2023)    
 - Solution: Sentiment Evaluation of Twitter and YouTube Data  
