@@ -48,7 +48,7 @@ In exercises, you collect your own data and try to answer questions about human 
 - Exercise 2: Social Impact Theory with Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
 
 7. **Measuring Polarization (guest lecture: Dr. Samuel
-Martin-Gutierrez, Complexity Science Hub Vienna)** (21.11.2023)   
+Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/07_MeasuringPolarization/week-7.pdf) (21.11.2023)   
 - Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
 
 8. **Social networks and processes** (28.11.2023)   
