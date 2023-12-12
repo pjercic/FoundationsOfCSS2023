@@ -92,10 +92,18 @@ TBC. **Science of Science (guest lecture: TBC)**
 
 ## Project preparation and presentation dates
 
+Final group project in groups of **up to four students**. 
+
+You can find more information about the project presentations and reports, including deadlines, in the [PROJECTS GUIDE](https://pjercic.github.io/FoundationsOfCSS2023/Projects_Guidance/ProjectsGuide).
+You can also find some guidance and recommendations in the [SLIDES OF THE PROJECT SUPPORT SESSION](https://pjercic.github.io/FoundationsOfCSS2023/Projects_Guidance/ProjectGuidanceSlides).
+There is also a [PROJECT EXAMPLE](https://pjercic.github.io/FoundationsOfCSS2023/Projects_Guidance/ProjectRegistrationExample).
+
+- 22.12 (end of day) - deadline for project group registrations on TC
 - 09.01 - Project guidance with Fariba
 - 16.01 - Project guidance with Fariba
 - 23.01 - Project presentations date 1
 - 30.01 - Project presentations date 2
+- 11.02 (end of day) - deadline for submission of projects final report
 
 ## Course grading
 
@@ -110,13 +118,11 @@ The assessment for the course is based on these components:
   - Exercise 3: Deadline: 19.12.2023
   - Exercise 4: Deadline: 05.01.2024
   
-- Final group project in groups of **up to four students**. Projects are linked to two evaluations:
+- Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
   - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
 
-You can find more information about the project presentations and reports, including deadlines, in the [projects guide.]() You can also find some guidance and recommendations in the [slides of the project support session.]()
-
-Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
+Graded exercises need to be submitted on Teach Center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
 
 Extra points (max 20%) can be achieved by delivering other exercise solutions, each one worth 10%. Optional exercises are graded with pass/fail and feedback about solutions will take place during tutorial sessions. In case of multiple submitted excercises, two of the best ones count towards the final grade, while others will count towards optional exercises.
 
