@@ -59,11 +59,11 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 
 10. **Computational inequality**  (12.12.2023)    
 - Solution: Sentiment Evaluation of Twitter and YouTube Data  
-- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1)]() -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
+- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
 11. **Social challenges and data ethics (guest lecture)** (19.12.2023)  
 - Project feedback
-- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2)]() -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
+- Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
 ### Block 2: Project
 
