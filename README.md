@@ -51,20 +51,19 @@ In exercises, you collect your own data and try to answer questions about human 
 Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/07_MeasuringPolarization/week-7.pdf) (21.11.2023)   
 - Exercise 2: Social Impact Theory with Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=b070baec-ca13-4fdf-9875-ec0ac895a30f) -- [[Exercise resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise02/)  
 
-8. **Social networks and processes** (28.11.2023)   
-- Solution:  Social Impact Theory with Twitter Data
+8. **Social networks and processes** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/08_SocialNetworksProcesses/week-8.pdf) (28.11.2023)   
 - Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise03/)
 
-9. **From animals to human: synchrony and cultural evolution** (5.12.2023)   
+9. **From animals to human: synchrony and cultural evolution** [[Slides]](https://pjercic.github.io/FoundationsOfCSS2023/09_AnimalsHuman/week-9.pdf) (5.12.2023)   
 - Exercise 3: Sentiment Evaluation of Twitter and YouTube Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=01a068a1-92e5-4a0a-9633-d57b8901d770) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise03/)
 
 10. **Computational inequality**  (12.12.2023)    
 - Solution: Sentiment Evaluation of Twitter and YouTube Data  
-- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1)]() -- [[Exercise Resources]]()  
+- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1)]() -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
 11. **Social challenges and data ethics (guest lecture)** (19.12.2023)  
 - Project feedback
-- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2)]() -- [[Exercise Resources]]()  
+- [Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2)]() -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
 ### Block 2: Project
 
