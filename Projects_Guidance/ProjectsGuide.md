@@ -2,18 +2,45 @@
 
 The course assessment is based on a final course project. Projects are done in groups that can have at most 4 students and must mix students with different backgrounds (at least two different backgrounds per group). The purpose of the project is to show what you have learned in the course in terms of data management, analysis, statistics, and interpretation. Projects have to start from a research question and have an empirical focus, but at the same time critically reflect on methods, conclusions, and limitations. 
 
+## Some basic information:
+
+- The format of project presentations will be the following: one group will present their work, after which another group will oppose and constructively criticize their work and propose improvements or ask clarification questions. For the second day of presentations, they will reverse their roles, with second group presenting and the first group discussing.
+
+- Group presentations will take place **physically in the lecture room** [HS A, Kopernikusgasse 24, 1st floor](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) in two dates: 23.01 and 30.01. Each presentation will have a time limit of 7 minutes, followed by 5 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+
+- Every student has to attend to **both sessions** because each student will be presenter in one session and discussant in the other one. 
+
+- We will prepare an entry in Teach Center for you to register your group and after all groups are registered, we will announce the agenda for each session including which group presents and which is the discussant. **The deadline for group registrations is 22.12. The agenda with times and who presents will be announced over the following weeks, after the groups have been registered**.
+
+- Discussants only need to pay attention to the presentation and ask questions or propose improvements afterwards. To qualify for the full grade, each student in your group has to ask a question when you are a discussant. After that, lecturers might ask questions and also make comments.
+
+- You can get guidance for your project during the exercise sessions of 09.01.2024 and ~~16.01.2024~~. From 22.01 there will be no more project guidance from the side of the lecturers.
+
+- The deadline to submit your report is **February 11th** (end of day). You can submit over Teach Center.
+
+- Reports must be in pdf format, briefly explaining the project and its results. **Do not submit python code or notebooks.**
+
+## Further clarifications
+
+- The 7-minute time limit for presentations is strict, points will be deducted if you take longer.
+
+- Discussants have to pay attention to their corresponding presentation, as the student projects will not be available before the presentations.
+
+- We have not set a limit on the number of pages of reports but we trust that you will try to be concise. Please do not include redundant output or notebook code, your report has to be readable and well-edited.
+
+- You will learn the date when your project presents and when it iss discussant on the week after groups are registered. Prepare as if you would present on the first session.
+
 The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
 
-- **19.12.2022:** Registration of projects.
-- **03.02.2023, 11:00:** Project presentations session day 1.
-- **17.02.2023:** Deadline for submission of final report. 
+- **22.12.2023:** Registration of project groups.
+- **23.01.2024, 11:00:** Project presentations session day 1.
 
 We offer a second date for project presentations and the submission of the final report for project teams that cannot make it on the first date:
 
-- **03.03.2023, 11:00** Second date for project presentations session day 2.
-- **17.03.2023** Second date for submission of final report.
+- **30.01.2024, 11:00** Second date for project presentations session day 2.
+- **11.02.2024** Submission of the final report.
 
-You can get guidance for your project on two special sessions: at 11:00 on 09.01.2024 and 16.01.2024.
+You can get guidance for your project on two special sessions: at 11:00 on 09.01.2024 and ~~16.01.2024~~.
 
 The steps to do the course project are the following:
 
@@ -37,7 +64,7 @@ Each presentation at least has to contain four slides:
 
 All members of the group have to participate in their presentation (for example presenting one slide each) and be present to reply to questions by the lecturers. The time for the presentation is restricted to **7 minutes**. It is important that you learn to synthesize and summarize the project, please practice the presentation substantially because taking longer will affect the project grade.
 
-You can get guidance for your project on the designated sessions (09.01.2024 and 16.01.2024) or on discord up until the first project presentations date (23.01.2024). After that, no guidance will be provided via discord or email.
+You can get guidance for your project on the designated sessions (09.01.2024 and ~~16.01.2024~~) or on discord up until the first project presentations date (23.01.2024). After that, no guidance will be provided via discord or email.
 
 #### 4. Submit the final report
 
@@ -57,11 +84,11 @@ Plots should be correctly shown (named axes, visible scales) and writing has to 
 
 Be careful with statistics in the analysis part. Use the methods covered in the course to assess the uncertainty of your answers and comment on these results in the conclusion part. The critique part is essential. An important objective of this course is to develop a critical understanding of the opportunities and limitations of the data and methods we will use.
 
-After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why. No more feedback or support will be given after the first project presentations day (03.02.2023). Students who aim to the second date should get early input on their project.
+After your project presentations, we might suggest feedback on your current project analysis and results. We will keep track of this feedback and expect that you incorporate it in your final project report. If something could not be done then we expect that you explain why. No more feedback or support will be given after the first project presentations day (23.01.2024). Students who aim to the second date should get early input on their project.
 
 ## Project grading
 
-The grade for the project is composed of 50% for the presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results. Remember that on top of the project presentation and report you can individually achieve an additional 4x5% (up to 20%) by handing in the exercise solutions.
+The grade for the project is composed of 50% for the presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how your have addressed your research questions, document any issues or deviations, and critically reflect on methods and results. Remember that on top of the project presentation and report you can individually achieve an additional 4x5% (up to 20%) by handing in the bonus exercise solutions.
 
 ## Examples of project topics
 

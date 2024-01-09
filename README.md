@@ -60,15 +60,15 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 10. **Computational inequality**  (12.12.2023)    
 - Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 1) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
-11. **Social challenges and data ethics (guest lecture)** (19.12.2023)  
+11. ~~**Social challenges and data ethics (guest lecture)** (19.12.2023)~~  
 - Exercise 4: Social Network Analysis of Swiss Politicians on Twitter Data (session 2) [[Video]](https://tube.tugraz.at/paella/ui/watch.html?id=ecaadec6-d56b-4812-8c77-844684f13ba4) -- [[Exercise Resources]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/Exercise04/)  
 
 ### Block 2: Project
 
-12. [**Lecture Q&A session**]() [[Slides]]() (09.01.2024)  
+12. **Lecture Q&A session** [[Slides]]() (09.01.2024)  
 *Project guidance*  
 
-12. [**Lecture Q&A session**]() [[Slides]]() (16.01.2024)  
+12. ~~**Lecture Q&A session** [[Slides]]() (16.01.2024)~~  
 *Project guidance*  
 
 14. **Project presentations** [[Agenda]]() (23.01.2024)
@@ -76,11 +76,6 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 
 15. **Project presentations** [[Agenda]]() (30.01.2024)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
-
-TBC. **Algorithms, inequalities, and fairness (guest lecture: Lisette
-Espin-Noboa)** 
-
-TBC. **Science of Science (guest lecture: TBC)**
 
 ## Where to access materials
 
@@ -113,7 +108,7 @@ The assessment for the course is based on these components:
   - Exercise 1: Deadline: 21.11.2023
   - Exercise 2: Deadline: 05.12.2023
   - Exercise 3: Deadline: 19.12.2023
-  - Exercise 4: Deadline: 05.01.2024
+  - Exercise 4: Deadline: 12.01.2024
   
 - Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
