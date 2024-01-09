@@ -57,10 +57,7 @@ The deadlines are up to the end of the day in Austria marked by each date.
 
 - **22.12.2023:** Registration of project groups.
 - **23.01.2024, 11:00:** Project presentations session day 1.
-
-We offer a second date for project presentations and the submission of the final report for project teams that cannot make it on the first date:
-
-- **30.01.2024, 11:00:** Second date for project presentations session day 2.
+- **30.01.2024, 11:00:** Project presentations session day 2.
 - **11.02.2024** Submission of the final report.
 
 You can get guidance for your project on two special sessions:  

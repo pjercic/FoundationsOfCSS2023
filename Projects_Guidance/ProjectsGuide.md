@@ -34,10 +34,7 @@ The timeline of the project deadlines can be found below. The deadlines are up t
 
 - **22.12.2023:** Registration of project groups.
 - **23.01.2024, 11:00:** Project presentations session day 1.
-
-We offer a second date for project presentations and the submission of the final report for project teams that cannot make it on the first date:
-
-- **30.01.2024, 11:00** Second date for project presentations session day 2.
+- **30.01.2024, 11:00** Project presentations session day 2.
 - **11.02.2024** Submission of the final report.
 
 You can get guidance for your project on two special sessions: at 11:00 on 09.01.2024 and ~~16.01.2024~~.
