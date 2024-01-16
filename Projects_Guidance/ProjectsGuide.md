@@ -6,7 +6,7 @@ The course assessment is based on a final course project. Projects are done in g
 
 - The format of project presentations will be the following: one group will present their work, after which another group will oppose and constructively criticize their work and propose improvements or ask clarification questions. For the second day of presentations, they will reverse their roles, with second group presenting and the first group discussing.
 
-- Group presentations will take place **physically in the lecture room** [HS A, Kopernikusgasse 24, 1st floor](https://online.tugraz.at/tug_online/ris.ris?pOrgNr=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) in two dates: 23.01 and 30.01. Each presentation will have a time limit of 7 minutes, followed by 5 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Group presentations will take place **physically in the lecture room** [HS II (ATK1008H), Rechbauerstraße 12, Basement 1 in the Alte Technik campus of TU Graz](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=10010&pRaumNr=5207&pActionFlag=A&pShowEinzelraum=J) in two dates: 23.01 and 30.01. Each presentation will have a time limit of 7 minutes, followed by 5 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
 - Every student has to attend to **both sessions** because each student will be presenter in one session and discussant in the other one. 
 
