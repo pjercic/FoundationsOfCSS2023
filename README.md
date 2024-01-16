@@ -71,10 +71,10 @@ Martin-Gutierrez, Complexity Science Hub Vienna)** [[Slides]](https://pjercic.gi
 12. ~~**Lecture Q&A session** [[Slides]]() (16.01.2024)~~  
 *Project guidance*  
 
-14. **Project presentations** [[Agenda]]() (23.01.2024)
+14. **Project presentations** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/final_project_agenda.pdf) (23.01.2024)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
-15. **Project presentations** [[Agenda]]() (30.01.2024)
+15. **Project presentations** [[Agenda]](https://github.com/pjercic/FoundationsOfCSS2023/blob/main/final_project_agenda.pdf) (30.01.2024)
 <!-- - Make sure your whole group is available between 16:00 and 19:00 -->
 
 ## Where to access materials
